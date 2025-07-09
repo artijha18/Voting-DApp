@@ -1,3 +1,4 @@
+![WhatsApp Image 2025-07-09 at 21 15 07_bcff5220](https://github.com/user-attachments/assets/dc898894-90f7-4b7d-8311-b034904c4a8f)
 # Voting DApp
 
 ## 📌 Project Description
@@ -27,3 +28,4 @@ To create a trustworthy and tamper-proof digital voting platform that eliminates
 - **Deployed Network:** Core Blockchain (Testnet)
 - **Solidity Version:** 0.8.17
 - **Deployed By:** *[Your Wallet Address]*
+![WhatsApp Image 2025-07-09 at 21 15 07_bcff5220](https://github.com/user-attachments/assets/3d50aa14-59f3-4a15-8d38-5b666332eea0)
