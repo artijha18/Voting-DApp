@@ -24,8 +24,9 @@ To create a trustworthy and tamper-proof digital voting platform that eliminates
 ## 📄 Contract Details
 (You can manually fill this section later.)
 
-- **Contract Address:** *[To be filled]*
+- **Contract Address:** 0x762d688c3297e6f65DC62BEd9bd05aCCb03e51FC
 - **Deployed Network:** Core Blockchain (Testnet)
 - **Solidity Version:** 0.8.17
 - **Deployed By:** *[Your Wallet Address]*
-![WhatsApp Image 2025-07-09 at 21 15 07_bcff5220](https://github.com/user-attachments/assets/3d50aa14-59f3-4a15-8d38-5b666332eea0)
+
+![WhatsApp Image 2025-07-09 at 21 38 12_8b64f9dc](https://github.com/user-attachments/assets/010a00f1-21a9-4da3-bd3d-77773ea2cbf4)
