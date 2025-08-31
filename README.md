@@ -28,5 +28,6 @@ To create a trustworthy and tamper-proof digital voting platform that eliminates
 - **Deployed Network:** Core Blockchain (Testnet)
 - **Solidity Version:** 0.8.17
 - **Deployed By:** *[Your Wallet Address]*
+ 
 
 ![WhatsApp Image 2025-07-09 at 21 38 12_8b64f9dc](https://github.com/user-attachments/assets/010a00f1-21a9-4da3-bd3d-77773ea2cbf4)
